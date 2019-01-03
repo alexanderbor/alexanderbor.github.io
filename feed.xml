@@ -3,10 +3,10 @@
   <channel>
     <title>Alexander Bor</title>
     <description>PhD Student at Political Science Department at Aarhus University</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jan 2018 16:15:32 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2018 16:15:32 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Jan 2019 09:39:23 -0500</pubDate>
+    <lastBuildDate>Thu, 03 Jan 2019 09:39:23 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -422,8 +422,8 @@ etc..
 
 </description>
         <pubDate>Thu, 19 Feb 2015 16:46:04 -0500</pubDate>
-        <link>/articles/15/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">/articles/15/tufte-style-jekyll-blog</guid>
+        <link>http://localhost:4000/articles/15/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/15/tufte-style-jekyll-blog</guid>
         
         
         <category>jekyll</category>
@@ -597,8 +597,8 @@ D = \left(\begin{matrix}
 &lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte's pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 06:04:01 -0500</pubDate>
-        <link>/articles/15/Edge-Cases</link>
-        <guid isPermaLink="true">/articles/15/Edge-Cases</guid>
+        <link>http://localhost:4000/articles/15/Edge-Cases</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/15/Edge-Cases</guid>
         
         
         <category>post</category>
@@ -622,8 +622,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 </description>
         <pubDate>Sun, 08 Feb 2015 08:06:04 -0500</pubDate>
-        <link>/articles/15/welcome-to-jekyll</link>
-        <guid isPermaLink="true">/articles/15/welcome-to-jekyll</guid>
+        <link>http://localhost:4000/articles/15/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/15/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
